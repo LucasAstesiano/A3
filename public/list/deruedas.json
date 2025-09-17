@@ -1,0 +1,149 @@
+[
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-UP-2015/671/671291_1_tr.jpg?edit=9",
+    "precio": "$ 12.500.000",
+    "modelo": "Volkswagen UP",
+    "anio": "2015",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/UP/Usado/Mendoza?cod=671291"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-Suran-2017/715/715175_1_tr.jpg?edit=6",
+    "precio": "$ 15.300.000",
+    "modelo": "Volkswagen Suran",
+    "anio": "2017",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/Suran/Usado/Mendoza?cod=715175"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-Suran-2015/715/715169_1_tr.jpg?edit=5",
+    "precio": "$ 13.800.000",
+    "modelo": "Volkswagen Suran",
+    "anio": "2015",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/Suran/Usado/Mendoza?cod=715169"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-Suran-2013/679/679474_1_tr.jpg?edit=9",
+    "precio": "$ 11.800.000",
+    "modelo": "Volkswagen Suran",
+    "anio": "2013",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/Suran/Usado/Mendoza?cod=679474"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-Saveiro-2019/666/666108_1_tr.jpg?edit=13",
+    "precio": "$ 20.500.000",
+    "modelo": "Volkswagen Saveiro",
+    "anio": "2019",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/Saveiro/Usado/Mendoza?cod=666108"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Volkswagen-Amarok-2012/728/728427_1_tr.jpg?edit=4",
+    "precio": "$ 21.000.000",
+    "modelo": "Volkswagen Amarok",
+    "anio": "2012",
+    "link": "https://www.deruedas.com.ar/vendo/Volkswagen/Amarok/Usado/Mendoza?cod=728427"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2025/710/710901_1_tr.jpg?edit=13",
+    "precio": "$ 61.700.000",
+    "modelo": "Toyota Hilux",
+    "anio": "",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=710901"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2020/690/690120_1_tr.jpg?edit=11",
+    "precio": "$ 35.500.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2020",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=690120"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2017/729/729680_1_tr.jpg?edit=3",
+    "precio": "$ 31.000.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2017",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=729680"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2012/708/708881_1_tr.jpg?edit=8",
+    "precio": "$ 21.900.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2012",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=708881"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Corolla-2021/673/673787_1_tr.jpg?edit=11",
+    "precio": "$ 29.800.000",
+    "modelo": "Toyota Corolla",
+    "anio": "2021",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Corolla/Usado/Mendoza?cod=673787"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Corolla-2020/715/715177_1_tr.jpg?edit=3",
+    "precio": "$ 28.500.000",
+    "modelo": "Toyota Corolla",
+    "anio": "2020",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Corolla/Usado/Mendoza?cod=715177"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Citroen-C3-2017/673/673784_1_tr.jpg?edit=14",
+    "precio": "$ 14.900.000",
+    "modelo": "Citroen C3",
+    "anio": "2017",
+    "link": "https://www.deruedas.com.ar/vendo/Citroen/C3/Usado/Mendoza?cod=673784"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Chevrolet-Cruze-2018/722/722262_1_tr.jpg?edit=3",
+    "precio": "$ 20.800.000",
+    "modelo": "Chevrolet Cruze",
+    "anio": "2018",
+    "link": "https://www.deruedas.com.ar/vendo/Chevrolet/Cruze/Usado/Mendoza?cod=722262"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Corolla-2021/740/740298_1_tr.jpg?edit=8",
+    "precio": "$ 34.000.000",
+    "modelo": "Toyota Corolla",
+    "anio": "2021",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Corolla/Usado/Mendoza?cod=740298"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2020/736/736643_1_tr.jpg?edit=3",
+    "precio": "$ 48.000.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2020",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=736643"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2015/731/731308_1_tr.jpg?edit=3",
+    "precio": "$ 26.000.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2015",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=731308"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2016/729/729044_1_tr.jpg?edit=6",
+    "precio": "$ 38.000.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2016",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=729044"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Peugeot-208-2023/720/720730_1_tr.jpg?edit=3",
+    "precio": "$ 25.500.000",
+    "modelo": "Peugeot 208",
+    "anio": "2023",
+    "link": "https://www.deruedas.com.ar/vendo/Peugeot/208/Usado/Mendoza?cod=720730"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2022/707/707427_1_tr.jpg?edit=7",
+    "precio": "$ 42.000.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2022",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=707427"
+  },
+  {
+    "imagen": "https://www.deruedas.com.ar/images/autos/Toyota-Hilux-2022/703/703317_1_tr.jpg?edit=9",
+    "precio": "$ 46.700.000",
+    "modelo": "Toyota Hilux",
+    "anio": "2022",
+    "link": "https://www.deruedas.com.ar/vendo/Toyota/Hilux/Usado/Mendoza?cod=703317"
+  }
+]

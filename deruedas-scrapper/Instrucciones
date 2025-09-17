@@ -1,0 +1,2 @@
+ejecutar "python scrape_deruedas.py"
+Copiar el archivo deruedas.json y agregarlo al proyecto en react.
